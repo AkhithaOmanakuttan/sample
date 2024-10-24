@@ -1,0 +1,13 @@
+Git clone "copy the link and paste"
+
+Git and Github
+
+alternatives : AWS,bitbucket,gitlab
+
+git add . >>>> add the file to the staging alternatives (file is being tracked by git)
+
+git commit -m"mssage" >>>> to commit the changes in the tracked file
+
+git push origin main >>>> pushing the file to the main branch in Github repository.
+
+
